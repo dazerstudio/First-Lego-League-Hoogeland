@@ -10,3 +10,6 @@ body {
     left: 50vw;
     transform: translateX(-50%);
 }
+.names {
+    bottom: 5px;
+}
