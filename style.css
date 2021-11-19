@@ -1,6 +1,5 @@
 img {
-    position: relative;
-    align-self: right;
+    float: right;
 }
 body {
     font-family: 'Shippori Antique', sans-serif;
