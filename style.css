@@ -3,6 +3,7 @@ img {
 }
 body {
     font-family: 'Shippori Antique', sans-serif;
+    height: 100vw
 }
 .text {
     text-align: center;
