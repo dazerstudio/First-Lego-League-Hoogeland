@@ -4,6 +4,6 @@ img {
 body {
     font-family: 'Shippori Antique', sans-serif;
 }
-p {
+.text {
     float: center;
 }
