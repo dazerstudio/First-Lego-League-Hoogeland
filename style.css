@@ -12,5 +12,9 @@ body {
     transform: translateX(-50%);
 }
 .names {
-    top: calc(100vw - 5px);
+    text-align: center;
+    position: absolute;
+    left: 50vw;
+    transform: translateX(-50%);
+    bottom: 5px; 
 }
