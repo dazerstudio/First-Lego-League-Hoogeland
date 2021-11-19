@@ -3,5 +3,7 @@ img {
 }
 body {
     font-family: 'Shippori Antique', sans-serif;
-    text-align: center;
+}
+p {
+    float: center;
 }
