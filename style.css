@@ -12,5 +12,5 @@ body {
     transform: translateX(-50%);
 }
 .names {
-    bottom: 5px;
+    top: calc(100vw - 5px);
 }
