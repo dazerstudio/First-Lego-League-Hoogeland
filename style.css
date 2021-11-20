@@ -4,6 +4,7 @@ img {
 body {
     font-family: 'Shippori Antique', sans-serif;
     height: 100vh;
+    overflow: hidden;
 }
 .text {
     text-align: center;
