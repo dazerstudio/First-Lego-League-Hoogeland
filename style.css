@@ -16,10 +16,10 @@ body {
     left: 50vw;
     transform: translateX(-50%);
 }
-.names {
-    text-align: center;
-    position: fixed;
-    left: 50vw;
-    transform: translateX(-50%);
-    bottom: 5px; 
-}
+
+.names { 
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+}  
