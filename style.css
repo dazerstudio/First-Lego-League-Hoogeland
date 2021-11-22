@@ -1,5 +1,5 @@
 .right {
-    position: absolute;
+    position: relative;
     width: 25vw !important;
     right: 0;
     justify-content: right;
@@ -10,6 +10,7 @@ body {
     font-family: 'Shippori Antique', sans-serif;
     height: 100vh;
     width: 100vw !important;
+    overflow-x: hidden;
 }
 .text {
     text-align: center;
