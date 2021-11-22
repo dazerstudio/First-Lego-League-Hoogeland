@@ -9,6 +9,7 @@
 body {
     font-family: 'Shippori Antique', sans-serif;
     height: 100vh;
+    width: 100vw !important;
 }
 .text {
     text-align: center;
