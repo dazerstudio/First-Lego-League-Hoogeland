@@ -1,6 +1,6 @@
 .right {
     position: absolute;
-    width: 50vw;
+    width: 25vw !important;
     right: 0;
     justify-content: right;
     text-align: center;
