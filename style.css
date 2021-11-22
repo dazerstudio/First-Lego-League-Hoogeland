@@ -1,5 +1,5 @@
 .right {
-    position: relative;
+    position: absolute;
     width: 25vw !important;
     right: 0;
     justify-content: right;
