@@ -1,8 +1,11 @@
-img, #sponsors {
-    float: right;
-    position: relative;
-    right: 1px;
+.right {
+    position: absolute;
+    width: 50vw;
+    right: 0;
+    justify-content: right;
+    text-align: right;
 }
+
 body {
     font-family: 'Shippori Antique', sans-serif;
     height: 100vh;
